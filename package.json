@@ -1,0 +1,26 @@
+{
+  "name": "node-crash-course",
+  "version": "1.0.0",
+  "description": "nodejs crash course by netninja",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinshahameer/Nodejs-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinshahameer/Nodejs-crash-course/issues"
+  },
+  "homepage": "https://github.com/abinshahameer/Nodejs-crash-course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
